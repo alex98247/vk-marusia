@@ -1,0 +1,38 @@
+[
+  {
+    "category": "CV",
+    "displayName": "Computer Vision"
+  },
+  {
+    "category": "WEB",
+    "displayName": "Web"
+  },
+  {
+    "category": "MOBILE",
+    "displayName": "Мобильная разработка"
+  },
+  {
+    "category": "MARUSIA",
+    "displayName": "Маруся"
+  },
+  {
+    "category": "DESIGN",
+    "displayName": "Дизайн интерфейсов"
+  },
+  {
+    "category": "RL",
+    "displayName": "Оптимизация и RL"
+  },
+  {
+    "category": "GAME_DEV",
+    "displayName": "GameDev"
+  },
+  {
+    "category": "MINI_APPS",
+    "displayName": "VK Mini Apps"
+  },
+  {
+    "category": "DATA",
+    "displayName": "Анализ данных"
+  }
+]

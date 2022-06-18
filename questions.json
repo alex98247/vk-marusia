@@ -1,0 +1,43 @@
+[
+  {
+    "question": "Какая самая популярная библиотка для компьютерного зрения?",
+    "answer": ["opencv", "open cv"],
+    "category": "CV"
+  },
+  {
+    "question": "На каком языке преимущественно реализуют frontend?",
+    "answer": ["js", "javascript"],
+    "category": ["WEB"]
+  },
+  {
+    "question": "Можно ли на JavaScript написать мобильное приложение?",
+    "answer": ["да"],
+    "category": ["MOBILE"]
+  },
+  {
+    "question": "Могут ли сторонние разработчики реализоовывать свои навыки для Маруси?",
+    "answer": ["да"],
+    "category": ["MARUSIA", "WEB"]
+  },
+  {
+    "question": "Можете ли Вы назвать себя творческой личностью?",
+    "answer": ["да"],
+    "category": ["DESIGN", "MARUSIA"]
+
+  },
+  {
+    "question": "Расшифруйте сокращение RL в названии категории хакатона",
+    "answer": ["reinforcement learning"],
+    "category": ["RL", "DATA"]
+  },
+  {
+    "question": "Кто дизайнер игр Civilization и Pirates?",
+    "answer": ["сид мейер"],
+    "category": ["GAME_DEV"]
+  },
+  {
+    "question": "Можно ли в ВК разрабатывать свои приложения?",
+    "answer": ["да"],
+    "category": ["MINI_APPS", "WEB"]
+  }
+]
